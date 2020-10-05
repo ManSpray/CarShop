@@ -1,0 +1,6 @@
+{ name: bmw, Fuel type: sun, years: 2010, price: 500.0, mileage: 20000 }
+{ name: saf, Fuel type: sun, years: 2010, price: 500.0, mileage: 25555 }
+{ name: MB, Fuel type: d, years: 2010, price: 20000.0, mileage: 5200 }
+{ name: Citroen, Fuel type: d, years: 2006, price: 500.0, mileage: 50000 }
+{ name: Opel, Fuel type: p, years: 1991, price: 500.0, mileage: 350000 }
+{ name: Skoda, fuel type: d, years: 2020, price: 99999.0 }
